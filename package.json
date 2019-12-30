@@ -1,0 +1,14 @@
+{
+    "name": "_1055_1088_1086_1077_1082_1090",
+    "displayName": "Проект",
+    "version": "1.0.0",
+    "description": "Проект",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ecosystem:cordova"
+    ],
+    "author": ""
+}
